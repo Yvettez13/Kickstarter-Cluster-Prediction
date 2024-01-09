@@ -1,5 +1,4 @@
 ## Kickstarter Project Analysis
-# Introduction
 This repository hosts the analysis of a Kickstarter dataset, focusing on developing machine learning models for classification and clustering. The goal is to categorize creative projects, aiding funders in making informed decisions and enhancing project success rates.
 
 # Project Structure
